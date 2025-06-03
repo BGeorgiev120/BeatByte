@@ -1,5 +1,5 @@
 {
-    "name": "beatbyte-discord-bot",
+    "name": "discord-bot-name-in-small-caps",
     "version": "1.0.0",
     "description": "A powerful Discord music bot that plays music from YouTube",
     "main": "index.js",
