@@ -1,4 +1,4 @@
-# 🎵 BeatByte Discord Music Bot
+<h1 align="center">🎵 BeatByte Discord Music Bot </h1>
 
 <div align="center">
 
